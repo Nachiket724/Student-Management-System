@@ -22,6 +22,7 @@ JFreeChart is a free 100% Java chart library that makes it easy for developers t
   <img src="ss/lessSecureAccess.PNG" width="600" height="370">
 5. Place the Repository in one specific folder.
 
+
 6. Open "StudentManagementSystem/hibernate.cfg.xml" and change the configuration and keep your Oracle SQL Database password.
   
      <img src="ss/hib.PNG" width="700" height="70">
