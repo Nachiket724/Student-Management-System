@@ -19,11 +19,9 @@ JFreeChart is a free 100% Java chart library that makes it easy for developers t
 2. <a href="https://www.oracle.com/database/technologies/xe-prior-releases.html" target="_blank">Download and install Oracle Database Express Edition (XE) Release 11.2.0.2.0</a>
 3. <a href="https://github.com/Nachiket724/Student-Management-System.git" target="_blank">Download the GitHub Repository</a>
 4. Login in to your Gmail Account and goto <a href="https://myaccount.google.com/lesssecureapps" target="_blank">Less secure app access</a> and allow the Less Secure Apps access.
-  <img src="ss/lessSecureAccess.PNG" width="500">
+  <img src="ss/lessSecureAccess.PNG" width="600" height="370">
 5. Place the Repository in one specific folder.
-6. Open "StudentManagementSystem/hibernate.cfg.xml"
-      
-     a. Change the configuration and keep your Oracle SQL Database password.
+6. Open "StudentManagementSystem/hibernate.cfg.xml" and change the configuration and keep your Oracle SQL Database password.
   
      <img src="ss/hib.PNG" width="500">
       
