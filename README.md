@@ -21,9 +21,10 @@ JFreeChart is a free 100% Java chart library that makes it easy for developers t
 4. Login in to your Gmail Account and goto <a href="https://myaccount.google.com/lesssecureapps" target="_blank">Less secure app access</a> and allow the Less Secure Apps access.
   <img src="ss/lessSecureAccess.PNG" width="600" height="370">
 5. Place the Repository in one specific folder.
+
 6. Open "StudentManagementSystem/hibernate.cfg.xml" and change the configuration and keep your Oracle SQL Database password.
   
-     <img src="ss/hib.PNG" width="500">
+     <img src="ss/hib.PNG" width="700" height="70">
       
 7. Create a new directory in which you want to save the files and images which are being fetch from the database.
 8. Copy the path of that directory and paste it in the "StudentManagementSystem/SendAcknow.java".
