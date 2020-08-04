@@ -18,7 +18,7 @@ JFreeChart is a free 100% Java chart library that makes it easy for developers t
 1. <a href="https://www.oracle.com/in/java/technologies/javase-downloads.html" target="_blank">Download and install Java SE Development Kit 14 (JDK 14)</a>
 2. <a href="https://www.oracle.com/database/technologies/xe-prior-releases.html" target="_blank">Download and install Oracle Database Express Edition (XE) Release 11.2.0.2.0</a>
 3. <a href="https://github.com/Nachiket724/Student-Management-System.git" target="_blank">Download the GitHub Repository</a>
-4. Login in to your Gmail Account and goto <a href="https://myaccount.google.com/lesssecureapps" target="_blank">Less secure app access</a> and allow the Less Secure Apps access.
+4. Login in to your <b>Gmail Account</b> and goto <a href="https://myaccount.google.com/lesssecureapps" target="_blank">Less secure app access</a> and allow the Less Secure Apps access.
   <img src="ss/lessSecureAccess.PNG" width="600" height="370">
 5. Place the Repository in one specific folder.
 
