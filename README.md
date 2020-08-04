@@ -23,12 +23,12 @@ JFreeChart is a free 100% Java chart library that makes it easy for developers t
 5. Place the Repository in one specific folder.
 
 
-6. Open "StudentManagementSystem/hibernate.cfg.xml" and change the configuration and keep your Oracle SQL Database password.
+6. Open <b>StudentManagementSystem/hibernate.cfg.xml</b> and change the <b>configuration</b> and keep your Oracle SQL Database password.
   
      <img src="ss/hib.PNG" width="700" height="70">
       
 7. Create a new directory in which you want to save the files and images which are being fetch from the database.
-8. Copy the path of that directory and paste it in the "StudentManagementSystem/SendAcknow.java".
+8. Copy the path of that directory and paste it in the <b>StudentManagementSystem/SendAcknow.java</b>
   
      <img src="ss/sendAck1.PNG" width="700" height="70">
 
@@ -36,23 +36,23 @@ JFreeChart is a free 100% Java chart library that makes it easy for developers t
      
      <img src="ss/sendAck3.PNG" width="700" height="70">
      
-9. Paste the Organization Email- ID and  Organization Password and paste it in the "StudentManagementSystem/EmailSender.java"
+9. Paste the Organization Email- ID and  Organization Password and paste it in the <b>StudentManagementSystem/EmailSender.java</b>
       
      <img src="ss/senderEmail.PNG" width="700" height="70">
       
-10. Copy the same directory path and paste it in the "StudentManagementSystem/SendAcknow.java".
+10. Copy the same directory path and paste it in the <b>StudentManagementSystem/SendAcknow.java</b>.
       
      <img src="ss/senderEmail2.PNG" width="500" height="70">
       
-11. Open the Command Prompt in "Student Management System/StudentManagementSystem/".
-12. In Command Prompt type "javac -cp required\* *.java". This will create the java class of all the files.
-13. Then in Command Prompt type "java -cp required\*;. MainFrame" .
-14. Then Login will Open and type "Username as - 'rait'" and "Password as - 'root'".
+11. Open the Command Prompt in <b>Student Management System/StudentManagementSystem/</b>
+12. In Command Prompt type <b>javac -cp required\* *.java</b> This will create the java class of all the files.
+13. Then in Command Prompt type <b>java -cp required\*;. MainFrame" </b>.
+14. Then Login will Open and type Username as <b>rait</b> and Password as <b>root.</b>
   
       
      <img src="ss/login.PNG" width="300" height="300">
       
-15. Just click "Login" and you are ready to run the project.
+15. Just click <b>Login</b> and you are ready to run the project.
   
   
 ## Here are some Screenshots of the projects
